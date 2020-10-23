@@ -1,2 +1,2 @@
-# reflux.ts
-Discord.JS framework made in typescript.
+# discord-ts-framework
+Discord.JS micro cmmand framework made in typescript.
